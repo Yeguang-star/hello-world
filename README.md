@@ -1,2 +1,2 @@
 # hello-world
-just about anoter repository
+just about another repository
